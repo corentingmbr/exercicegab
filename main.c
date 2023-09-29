@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// j'avais pas de consignes mdr ducoup j'ai improvisé
+
+
 struct temps {
     unsigned int heures;
     unsigned int minutes;
